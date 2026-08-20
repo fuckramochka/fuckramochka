@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Telegram-@fuckramochka-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
-  <a href="https://ramochka.netlify.app" target="_blank">
+  <a href="https://ramochka.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ramochka.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
